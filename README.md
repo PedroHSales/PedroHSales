@@ -3,7 +3,7 @@
 
 - 🔭 Eu não estou trablhando em nada no momento.
 - 🌱 Eu estou aprendendo sobre desenvolvimento front end.
-- 📫 Contato: pedro.silva1107@outlook.com
+- 📫 Contato: pedrohsales201@gmail.com
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -18,6 +18,8 @@
 </div>
   
   ##
+ 
+ <!-- site dos badges https://dev.to/envoy_/150-badges-for-github-pnk --> 
  
 <div> 
   <a href="instagram.com/pedrohsales_s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
