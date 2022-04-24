@@ -2,7 +2,7 @@
 
 
 - 🔭 Eu não estou trablhando em nada no momento.
-- 🌱 Eu estou aprendendo sobre desenvolvimento front end.
+- 🌱 Desenvolvedor front-end aprendendo sobre back-end.
 - 📫 Contato: pedrohsales201@gmail.com
 
 <div align="center">
