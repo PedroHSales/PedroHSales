@@ -1,7 +1,7 @@
 ## Olá, eu sou Pedro Henrique e estou retomando meus estudos em programação!
 
 
-- 🔭 Eu não estou trablhando em nada no momento.
+- 🔭 Eu não estou trablhando em nada no momento, Mas busco por uma vaga como dev Front-end
 - 🌱 Desenvolvedor front-end aprendendo sobre back-end.
 - 📫 Contato: pedrohsales201@gmail.com
 
